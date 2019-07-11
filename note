@@ -1,0 +1,11 @@
+###python菜鸟之路(仅此记录研究生学习之路，不断更新)  
+##第一天 下载之路 2019.7.11  
+#start  
+#下载home-brew,目的是为了更新python，mac本自带2.7.0版本，最好实现2.版本与3.版本共存
+#使用brew搜索并下载python3版本  
+#使用百度网盘下载pycharm专业免费版 有效期到2100年 百度网盘好慢 恨不得分分钟开一个vip  
+#创建第一个python程序并输出“hello world!”  
+#参考的博客：[链接](https://www.jianshu.com/p/79f5eae9f04f)
+#end. 
+
+
