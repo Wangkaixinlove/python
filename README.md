@@ -47,13 +47,13 @@ start
 3.下载protege  
 完成构建类、子类、类之间的关系、对象属性、建立数据属性、建立实例、添加实例之间的关系等练习  
 end. 
-#### 2019.7.20-2019.7.21
-start
-1.学习知识图谱第三讲：
-主要讲了知识抽取中的关系抽取及事件抽取，事件抽取也可理解为多元关系抽取。实体识别与分类，以及关系抽取的步骤。
-2.学习知识图谱第四讲：
-学习了斯坦福大学基于deepdive知识抽取(三元组)的实例，资源地址：http://www.openkg.cn/ dataset/cn-deepdive
-3.下载scrapy爬虫框架：
-使用pip安装,需要先下载Twisted插件，根据参考博客：https://blog.csdn.net/qq_41646358/article/details/81335359
+#### 2019.7.20-2019.7.21  
+start  
+1.学习知识图谱第三讲：  
+主要讲了知识抽取中的关系抽取及事件抽取，事件抽取也可理解为多元关系抽取。实体识别与分类，以及关系抽取的步骤。  
+2.学习知识图谱第四讲：  
+学习了斯坦福大学基于deepdive知识抽取(三元组)的实例，资源地址：http://www.openkg.cn/ dataset/cn-deepdive  
+3.下载scrapy爬虫框架：  
+使用pip安装,需要先下载Twisted插件，根据参考博客：https://blog.csdn.net/qq_41646358/article/details/81335359  
 
 
