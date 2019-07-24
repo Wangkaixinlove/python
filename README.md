@@ -66,9 +66,9 @@ Scrapy数据处理流程:
 然后从第2步开始循环,知道获取信息完毕。只有调度器中没有任何请求时,程序才会停止；  
 end.
 #### 2019.7.22-1019.7.24
-start
-1.学习知识图谱第五讲：知识存储
-2.下载MySQL及可视化工具navicat for mysql
-3.进行一个实战：将百度贴吧的数据爬虫并存储到关系型数据库MySQL中，将数据结构化，记录过程到CSDN个人博客：https://blog.csdn.net/qq_36812990/article/details/97125764
+start  
+1.学习知识图谱第五讲：知识存储  
+2.下载MySQL及可视化工具navicat for mysql  
+3.进行一个实战：将百度贴吧的数据爬虫并存储到关系型数据库MySQL中，将数据结构化，记录过程到CSDN个人博客：https://blog.csdn.net/qq_36812990/article/details/97125764  
 
 
