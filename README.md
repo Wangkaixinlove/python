@@ -72,10 +72,10 @@ start
 3.进行一个实战：将百度贴吧的数据爬虫并存储到关系型数据库MySQL中，将数据结构化，记录过程到CSDN个人博客：https://blog.csdn.net/qq_36812990/article/details/97125764  
 end.
 #### 2019.7.25-2019.8.2
-start
-进行实战：基于知识图谱构建电影知识问答系统
-构建过程参考：https://blog.csdn.net/qq_36812990/article/details/97619345
-系统最终可以回答：
+start  
+进行实战：基于知识图谱构建电影知识问答系统  
+构建过程参考：https://blog.csdn.net/qq_36812990/article/details/97619345  
+系统最终可以回答：  
 1. 某演员演了什么电影
 2. 某电影有哪些演员出演
 3. 演员A和演员B合作出演了哪些电影
