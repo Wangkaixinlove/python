@@ -126,7 +126,20 @@ start
 使用pip install chatterbot安装库  
 报错未解决 后来解决方案是去github下载源码 使用setup.py进行安装 在文件内部仍报错无法运行  
 查看源码需要配置的环境 使用pip list对照版本 发现pyyaml版本太低 进行更新  更新时继续报错 使用命令行语句忽视已安装的pyyaml后 成功安装  
-sqlalechemy也进行更新 使用命令pip install --upgrade sqlalechemy即可
+sqlalechemy也进行更新 使用命令pip install --upgrade sqlalechemy即可  
 end   
+#### 2019.8.23-8.26
+start  
+实现自动问答机器人，整理基于chatbot的自动问答的实验过程  
+写博客《基于chatterbot制作聊天机器人》  
+博客链接：https://blog.csdn.net/qq_36812990/article/details/100034746  
+阅读学习《统计学习方法》一书中的条件随机场及隐马尔可夫模型  
+end  
+#### 2019.8.27-2019.9.2 
+start  
+整理暑期所学知识  
+制作学习汇报PPT  
+end  
+
 
 
